@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BloodMoonTower_free_version">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/res/sheets/images/BloodMoonTower_free_version.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

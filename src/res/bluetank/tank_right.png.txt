@@ -1,0 +1,1 @@
+tank_right_01.png.png 11 20, tank_right_02.png.png 75 20.
